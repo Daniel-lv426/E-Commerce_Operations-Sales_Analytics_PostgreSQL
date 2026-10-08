@@ -1,1 +1,0 @@
-# E-Commerce_Operations-Sales_Analytics_PostgreSQL
